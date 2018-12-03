@@ -112,9 +112,9 @@ The `bin` directory has one file, `run.rb`. This file is an *executable file*. T
 
 ![](http://readme-pics.s3.amazonaws.com/Apis-and-Iteration_Screen_Cap.gif)
 
-A user will run the program, see a lovely welcome message of your choosing, and then be prompted to enter the name of a character.
+- [ ] A user will run the program, see a lovely welcome message of your choosing, and then be prompted to enter the name of a character.
 
-Your program will capture that input and use it to query the Star Wars API for that characters films, `puts`-ing out to the terminal, the info about the films that character has appeared in.
+- [ ]Your program will capture that input and use it to query the Star Wars API for that characters films, `puts`-ing out to the terminal, the info about the films that character has appeared in.
 
 ### `bin/run.rb`
 
